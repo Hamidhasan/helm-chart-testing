@@ -13,7 +13,7 @@ entries:
   #  - https://Hamidhasan.github.io/helm-chart-testing/hamidhasan-helm-test-0.2.0.tgz
   #  version: 0.2.0
   - apiVersion: v2
-    appVersion: 0.1.2-rollback
+    appVersion: 0.1.0
     created: "2021-10-20T04:06:57.351679228Z"
     description: A Helm chart for Kubernetes
     digest: 8a22c1dfbfb29c95bd93c8827c1e90187aae34aad01dc459872de68084dbc90d
