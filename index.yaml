@@ -1,16 +1,17 @@
 apiVersion: v1
 entries:
   hamidhasan-helm-test:
-  - apiVersion: v2
-    appVersion: 1.0.1
-    created: "2021-10-20T16:53:54.145111453Z"
-    description: A Helm chart for Kubernetes
-    digest: 815283a6729aece6b4ed9840996182706e16857355d0ad73b9ae3e163fb7ff00
-    name: hamidhasan-helm-test
-    type: application
-    urls:
-    - https://Hamidhasan.github.io/helm-chart-testing/hamidhasan-helm-test-0.2.0.tgz
-    version: 0.2.0
+# This version is broken, and should not appear for users!
+#  - apiVersion: v2
+#    appVersion: 1.0.1
+#    created: "2021-10-20T16:53:54.145111453Z"
+#    description: A Helm chart for Kubernetes
+#    digest: 815283a6729aece6b4ed9840996182706e16857355d0ad73b9ae3e163fb7ff00
+#    name: hamidhasan-helm-test
+#    type: application
+#    urls:
+#    - https://Hamidhasan.github.io/helm-chart-testing/hamidhasan-helm-test-0.2.0.tgz
+#    version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
     created: "2021-10-20T04:06:57.351679228Z"
